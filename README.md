@@ -44,12 +44,12 @@ O projeto produziu um mapa temático que identifica três níveis de vulnerabili
 🟠 Média Vulnerabilidade (1000 m)
 - Influência indireta relevante
 - Potencial de impacto cumulativo
-🟡 Baixa Vulnerabilidade / Influência Ampliada (2000 m)
+🟡 Baixa Vulnerabilidade (2000 m)
 - Zona de difusão de efeitos ambientais
 - Importante para planejamento territorial e prevenção
 
 4. Ferramentas e técnicas:
-QGIS 3.40.5
+- QGIS 3.40.5
 - Modelagem espacial vetorial
 - Analise Buffer 
   Interseção
