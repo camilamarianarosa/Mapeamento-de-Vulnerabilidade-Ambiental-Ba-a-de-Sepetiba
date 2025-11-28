@@ -38,7 +38,9 @@ A análise utiliza buffers radiais de 500 m, 1000 m e 2000 m para identificar zo
 O mapa final identifica três zonas de vulnerabilidade:
 
 🔴 Alta (500 m): impacto direto sobre ecossistemas sensíveis
+
 🟠 Média (1000 m): influência intermediária e potencial efeito cumulativo
+
 🟡 Baixa (2000 m): difusão de impacto e área de planejamento preventivo
 
 A análise permite avaliar riscos ambientais e priorizar ações de mitigação.
