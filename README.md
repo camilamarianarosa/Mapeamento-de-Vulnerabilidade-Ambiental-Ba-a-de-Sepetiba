@@ -54,7 +54,6 @@ QGIS 3.40.5
 - Analise Buffer 
   Interseção
 - Organização cartográfica e layout final
+ 
 Autora: Camila Mariana Neri Rosa - Oceanografia/UERJ
 
-Resultado
-Mapa final indicando três níveis de vulnerabilidade ambiental (alto, médio, alto ampliado), destacando áreas sensíveis sob maior pressão industrial.
