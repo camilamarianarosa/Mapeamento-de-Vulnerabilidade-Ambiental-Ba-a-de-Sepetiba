@@ -1,5 +1,6 @@
 Este projeto apresenta um diagnóstico espacial da vulnerabilidade de manguezais e restingas na Baía de Sepetiba (RJ), integrando camadas ambientais e análise espacial no QGIS.
 O objetivo é identificar áreas sensíveis sob influência de fontes industriais e zoneamentos de impacto por meio de buffers de 500 m, 1000 m e 2000 m.
+
 1. Camadas utilizadas:
 
 - Uso e cobertura da terra — MapBiomas
@@ -18,6 +19,7 @@ Foram criados buffers radiais a partir dos pontos de pressão industrial:
 | 🔴 Alto | 500 m | Influência direta |
 | 🟠 Médio | 1000 m | Influência intermediária |
 | 🟡 Baixo | 2000 m | Influência difusa |
+
 2.3 Cálculo das Áreas
 | Zona de Impacto | Distância (m) | Área (m²)       | Área (ha)     |
 |----------------|---------------|------------------|---------------|
