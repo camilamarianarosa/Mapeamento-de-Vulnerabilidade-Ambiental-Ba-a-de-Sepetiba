@@ -30,10 +30,12 @@ A análise utiliza buffers radiais de 500 m, 1000 m e 2000 m para identificar zo
 - Cruzamento espacial entre buffers e manguezais/restingas
 - Quantificação da área sensível dentro de cada nível de impacto
 - Classificação final da vulnerabilidade ambiental
+  
 2.5 Construção do layout cartográfico e simbologia temática
 -  Símbolos temáticos para cada nível de vulnerabilidade
 - Legenda estruturada, escala, seta norte e refinamento visual
 - Exportação do layout final em PNG
+
 3. Resultado Final
 O mapa final identifica três zonas de vulnerabilidade:
 
