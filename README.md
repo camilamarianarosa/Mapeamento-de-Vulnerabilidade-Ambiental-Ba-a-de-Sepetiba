@@ -1,4 +1,3 @@
-Este projeto realiza um diagnóstico espacial da vulnerabilidade de manguezais e restingas na Baía de Sepetiba a partir da influência de fontes industriais.
 A análise utiliza buffers radiais de 500 m, 1000 m e 2000 m para identificar zonas de impacto e quantificar áreas sensíveis.
 
 1. Camadas utilizadas:
@@ -36,7 +35,12 @@ A análise utiliza buffers radiais de 500 m, 1000 m e 2000 m para identificar zo
 - Legenda estruturada, escala, seta norte e refinamento visual
 - Exportação do layout final em PNG
 
-3. Resultado Final
+3. Mapa Final
+
+![Mapeamento de Vulnerabilidade Ambiental em Áreas Sensíveis – Baía de Sepetiba_page-0001](https://github.com/user-attachments/assets/084c22bf-b55f-4333-bfdf-2b7652a1d50f)Este projeto realiza um diagnóstico espacial da vulnerabilidade de manguezais e restingas na Baía de Sepetiba a partir da influência de fontes industriais.
+
+
+4. Resultado Final
 O mapa final identifica três zonas de vulnerabilidade:
 
 🔴 Alta (500 m): impacto direto sobre ecossistemas sensíveis
@@ -47,7 +51,7 @@ O mapa final identifica três zonas de vulnerabilidade:
 
 A análise permite avaliar riscos ambientais e priorizar ações de mitigação.
 
-4. Ferramentas e técnicas:
+5. Ferramentas e técnicas:
 - QGIS 3.40.5
 - Modelagem espacial vetorial
 - Analise Buffer 
